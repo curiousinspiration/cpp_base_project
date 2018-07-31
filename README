@@ -1,4 +1,4 @@
-
+# Repo to use as template for C++ projects with cmake & gtest in the future
 
 `cmake -D GLOG_INCLUDE_DIR=~/Code/3rdParty/glog-0.3.5/glog-install/include/ \
        -D GLOG_LIB_DIR=~/Code/3rdParty/glog-0.3.5/glog-install/lib/ \
